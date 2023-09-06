@@ -1,0 +1,106 @@
+#input_box {
+  justify-items: center;
+  height: 28px;
+  width: 200px;
+  border-radius: 5px;
+  background-color: #cac0e3;
+  align-items: center;
+  margin-top: 60px;
+  margin-left: 600px;
+  text-align: center;
+  font-size: 23px;
+}
+
+.searchButton {
+  background-color: red;
+  height: 28px;
+  width: 60px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  justify-content: center;
+}
+.info {
+  border: solid black;
+  height: 60px;
+  width: auto;
+  text-align: center;
+
+  color: red;
+  background-color: rgb(7, 157, 245);
+}
+
+.fs {
+  font-size: 30px;
+}
+.size {
+  height: 30px;
+  width: 300px;
+}
+.btn {
+  height: 30px;
+  width: 150px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 100px;
+  background-color: greenyellow;
+}
+.div-output {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  border: solid black;
+  text-align: start;
+}
+.image-align {
+  align-items: center;
+  margin-left: 400px;
+  margin-top: 20px;
+  height: 350px;
+  width: 400px;
+}
+.img-thumnail {
+  border: solid red;
+  height: 300px;
+  width: 600px;
+}
+#super-hit {
+  margin-top: 5px;
+  margin-left: 100px;
+  border: solid rgb(1, 79, 1) 1px;
+  height: 20px;
+  width: 100px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#good {
+  margin-top: 5px;
+  margin-left: 100px;
+  border: solid green 1px;
+  height: 20px;
+  width: 100px;
+  text-align: center;
+  border-radius: 5px;
+}
+#flop {
+  margin-top: 5px;
+  margin-left: 100px;
+  border: solid red 1px;
+  height: 20px;
+  width: 100px;
+  text-align: center;
+  border-radius: 5px;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.red {
+  background-color: red;
+}
